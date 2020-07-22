@@ -1,0 +1,13 @@
+C:\Users\herri\source\repos\Lab6-PowersTable\bin\Debug\netcoreapp3.1\Lab6-PowersTable.exe
+C:\Users\herri\source\repos\Lab6-PowersTable\bin\Debug\netcoreapp3.1\Lab6-PowersTable.deps.json
+C:\Users\herri\source\repos\Lab6-PowersTable\bin\Debug\netcoreapp3.1\Lab6-PowersTable.runtimeconfig.json
+C:\Users\herri\source\repos\Lab6-PowersTable\bin\Debug\netcoreapp3.1\Lab6-PowersTable.runtimeconfig.dev.json
+C:\Users\herri\source\repos\Lab6-PowersTable\bin\Debug\netcoreapp3.1\Lab6-PowersTable.dll
+C:\Users\herri\source\repos\Lab6-PowersTable\bin\Debug\netcoreapp3.1\Lab6-PowersTable.pdb
+C:\Users\herri\source\repos\Lab6-PowersTable\obj\Debug\netcoreapp3.1\Lab6-PowersTable.csprojAssemblyReference.cache
+C:\Users\herri\source\repos\Lab6-PowersTable\obj\Debug\netcoreapp3.1\Lab6-PowersTable.AssemblyInfoInputs.cache
+C:\Users\herri\source\repos\Lab6-PowersTable\obj\Debug\netcoreapp3.1\Lab6-PowersTable.AssemblyInfo.cs
+C:\Users\herri\source\repos\Lab6-PowersTable\obj\Debug\netcoreapp3.1\Lab6-PowersTable.csproj.CoreCompileInputs.cache
+C:\Users\herri\source\repos\Lab6-PowersTable\obj\Debug\netcoreapp3.1\Lab6-PowersTable.dll
+C:\Users\herri\source\repos\Lab6-PowersTable\obj\Debug\netcoreapp3.1\Lab6-PowersTable.pdb
+C:\Users\herri\source\repos\Lab6-PowersTable\obj\Debug\netcoreapp3.1\Lab6-PowersTable.genruntimeconfig.cache
